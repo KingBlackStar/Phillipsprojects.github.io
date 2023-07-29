@@ -1,3 +1,3 @@
 # Phillipsprojects.github.io
-repo/website/webpage.html
+repo/website/index.html
 Working on making a video game. Coming soon :)
